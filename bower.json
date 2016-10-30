@@ -1,0 +1,17 @@
+{
+  "name": "three-js-demo",
+  "description": "Three.js demo with socket.io",
+  "main": "index.html",
+  "authors": [
+    "Santhosh Raju"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

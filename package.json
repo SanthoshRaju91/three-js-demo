@@ -1,0 +1,15 @@
+{
+  "name": "three-js-demo",
+  "version": "1.0.0",
+  "description": "Three.js demo with socket.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santhosh Raju",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
